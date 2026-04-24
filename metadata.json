@@ -1,0 +1,9 @@
+{
+  "name": "FM - OFICINA",
+  "description": "Sistema de gerenciamento de serviços para mecânicos de motos.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
